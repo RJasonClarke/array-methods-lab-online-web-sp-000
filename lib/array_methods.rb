@@ -1,5 +1,5 @@
 def using_include(array, element)
-  array ["wow", "I'm", "really", "learning"]
+  array ["wow", "I'm"]
   array.include("wow")
 end
 
